@@ -1,4 +1,4 @@
-# MOOC-Java-Programmingtempp
+# MOOC-Java-Programming deel II
 
 Mijn uitwerkingen van de Assessments van het tweede semester Object Oriented Programming with Java van de Universiteit van Helsinki.
 
