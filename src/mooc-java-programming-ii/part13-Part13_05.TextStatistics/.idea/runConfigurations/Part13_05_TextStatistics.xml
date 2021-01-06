@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part13_05.TextStatistics" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../../../Program Files/AdoptOpenJDK/jdk-11.0.9.101-hotspot" />
+    <option name="MAIN_CLASS_NAME" value="textstatistics.TextStatisticsApplication" />
+    <module name="Part13_05.TextStatistics" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
