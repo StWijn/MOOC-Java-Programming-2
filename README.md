@@ -1,6 +1,6 @@
 # MOOC-Java-Programming deel II
 
-Mijn uitwerkingen van de Assessments van het tweede semester Object Oriented Programming with Java van de van de Universiteit van Helsinki (Computer Sciences).
+Mijn uitwerkingen van de Assessments van het tweede semester Object Oriented Programming with Java (Java Programming II) van de van de Universiteit van Helsinki, faculteit Computer Sciences.
 
 Al mijn geschreven code zit per opdracht in /main/java. Sommige Assignments waren uitgebreid, en sommigen beknopt. De focus van hun curriculum ligt op het zo goed mogelijk aanleren van Core Java aan startende developers. Geen fancy frameworks maar alle disciplines vanuit de basis onder de knie krijgen. In de volgende map zitten dan ook 68  verschillende assignments. Sommige Assignments waren uitgebreid, en sommigen beknopt. 
 
